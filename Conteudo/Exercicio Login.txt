@@ -1,0 +1,14 @@
+Crie um sistema onde o usuário informa o esta (SIGLA) que esta fazendo a compra e o valor total da compra. Se o estado for SP ou a compra maior que 100R$, exibir a mesnagem "CUPOM DE FRETE GRATIS", senão exibir "FRETE para o seu estado de R$19,99".
+
+
+
+
+
+Crie um sistema que receba a média final do aluno e a quantidade faltas, caso a nota seja maior ou igual a 7 e a quantidade de faltas for menor do que 4, então mostrar ALUNO APROVADO, senão mostrar ALUNO REPROVADO
+
+Criar um sistema que receba o usuário e a,senha. Caso o usuário ou a senha não forma preenchidos, apresentar a mensagem "preencha os campos obrigatórios", senão, caso o usuário for igual a "senai" e a senha igual "senai123", então "BEM VINDO!!! Entrada Autorizada", se o usuário for igual a "senai" e a senha diferente de "senai123", então "Entrada Negada!!!Senha Incorreta", se o usuário for diferente de "senai" e a senha igual a "senai123", então "Entrada Negada!!!Usuário Incorreto", senão "ENTRADA NEGADA, usuário e senha incorretos"
+
+
+
+
+

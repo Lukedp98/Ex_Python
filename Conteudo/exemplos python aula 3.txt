@@ -1,0 +1,29 @@
+Criar um sistema que receba o nome de um aluno e a nota de 4 bimestres e calcule e exiba a média aritmética dessas notas.
+1-informar o nome do aluno
+2-guardar o nome do aluno
+3-informar a nota do 1 bim
+4-guardar a nota do 1 bim
+5-informar a nota do 2 bim
+6-guardar a nota do 2 bim
+7-informar a nota do 3 bim
+8-guardar a nota do 3 bim
+9-informar a nota do 4 bim
+10-guardar a nota do 4 bim
+11-calcular o valor da média e armazenar na em média
+12-exibir o nome do aluno e a média final
+
+Criar um sistema que calcule o perimetro de um terreno onde o usuário vai informar as medidas de largura e profundidade do terreno e exibir o total de contorno desse terreno.
+
+
+
+Criar um sistema que calcule o volume de um cilindro. O usuário precisa informar o raio e a altura do cilindro.
+A fórmula para o resultado é Pi*raio²*Altura
+
+
+
+
+
+
+
+
+

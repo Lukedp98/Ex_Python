@@ -1,0 +1,10 @@
+Comandos para baixar covnersor de arquivo python para .exe
+
+python -m pip install auto-py-to-exe
+#instala pacote de conversão
+
+
+python -m auto_py_to_exe
+#abre a janela de conversão
+
+

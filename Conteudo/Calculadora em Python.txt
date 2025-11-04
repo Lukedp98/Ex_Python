@@ -1,0 +1,24 @@
+Desenvolver um programa em Python que realize operações matemáticas básicas de forma interativa com o usuário.
+Crie uma função chamada calculadora() que permita ao usuário realizar várias operações matemáticas seguidas, até que ele decida encerrar.
+
+O programa deve seguir as seguintes instruções:
+
+Solicite ao usuário o primeiro número.
+
+Em seguida, pergunte qual operação ele deseja realizar.
+
+As operações válidas são:
++ (adição)
+- (subtração)
+* (multiplicação)
+/ (divisão - OBS: não pode existir divisão por zero)
+** (potenciação)
+
+Peça o próximo número e execute a operação com o total atual.
+
+Após cada operação, permita que o usuário insira outra operação e outro número.
+
+Caso o usuário digite "=", o programa deve exibir o resultado final e encerrar.
+
+O programa deve impedir divisões por zero, exibindo uma mensagem de erro quando isso ocorrer.
+
