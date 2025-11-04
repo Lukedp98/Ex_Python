@@ -1,1 +1,1 @@
-# Ex_Python
+# Exercícios do curso de Pyhton - Senai
